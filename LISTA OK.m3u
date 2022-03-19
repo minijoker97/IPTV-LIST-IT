@@ -1,65 +1,35 @@
 #EXTM3U
-#EXTINF:0,SKY ARTE HD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/169490?checkedby:iptvcat.com
-#EXTINF:0,SKY ATLANTIC FHD
-http://5gfksa.ltd:2052/334455/554433/148177?checkedby:iptvcat.com
-#EXTINF:0,SKY CINEMA ACTION HD
-http://5gfksa.ltd:2052/334455/554433/148176?checkedby:iptvcat.com
-#EXTINF:0,SKY CINEMA COLLECTION HD
-http://5gfksa.ltd:2052/334455/554433/148174?checkedby:iptvcat.com
-#EXTINF:0,SKY CINEMA COMEDY HD
-http://5gfksa.ltd:2052/334455/554433/148173?checkedby:iptvcat.com
-#EXTINF:0,SKY CINEMA DRAMA HD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/194358?checkedby:iptvcat.com
-#EXTINF:0,SKY CINEMA DUE HD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/169511?checkedby:iptvcat.com
-#EXTINF:0,SKY CINEMA FAMILY HD
-http://5gfksa.ltd:2052/334455/554433/148172?checkedby:iptvcat.com
-#EXTINF:0,SKY CINEMA ROMANCE HD
-http://5gfksa.ltd:2052/334455/554433/148171?checkedby:iptvcat.com
-#EXTINF:0,SKY CINEMA SUSPENSE HD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/7775?checkedby:iptvcat.com
-#EXTINF:0,SKY CINEMA UNO HD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/194359?checkedby:iptvcat.com
-#EXTINF:0,SKY MOTO GP HD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/7799?checkedby:iptvcat.com
-#EXTINF:0,SKY PRIMAFILA 1  HD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2082?checkedby:iptvcat.com
-#EXTINF:0,SKY PRIMAFILA 10 HD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2091?checkedby:iptvcat.com
-#EXTINF:0,SKY PRIMAFILA 12 HD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2092?checkedby:iptvcat.com
-#EXTINF:0,SKY PRIMAFILA 14 HD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2094?checkedby:iptvcat.com
-#EXTINF:0,SKY PRIMAFILA 17 HD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2096?checkedby:iptvcat.com
-#EXTINF:0,SKY PRIMAFILA 18 HD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2097?checkedby:iptvcat.com
-#EXTINF:0,SKY PRIMAFILA 3 HD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2084?checkedby:iptvcat.com
-#EXTINF:0,SKY PRIMAFILA 4 HD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2085?checkedby:iptvcat.com
-#EXTINF:0,SKY PRIMAFILA 5 HD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2086?checkedby:iptvcat.com
-#EXTINF:0,SKY PRIMAFILA 6 HD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2087?checkedby:iptvcat.com
-#EXTINF:0,SKY PRIMAFILA 7 HD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2088?checkedby:iptvcat.com
-#EXTINF:0,SKY PRIMAFILA 9 HD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/2090?checkedby:iptvcat.com
-#EXTINF:0,SKY SPORT 24 HD
-http://5gfksa.ltd:2052/334455/554433/148168?checkedby:iptvcat.com
-#EXTINF:0,SKY SPORT ARENA FHD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/7795?checkedby:iptvcat.com
-#EXTINF:0,SKY SPORT F1 HD
-http://5gfksa.ltd:2052/334455/554433/148166?checkedby:iptvcat.com
-#EXTINF:0,SKY SPORT F1 HD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/7800?checkedby:iptvcat.com
-#EXTINF:0,SKY SPORT FOOTBALL FHD
-http://5gfksa.ltd:2052/334455/554433/148165?checkedby:iptvcat.com
-#EXTINF:0,SKY SPORT MOTO GP FHD
-http://5gfksa.ltd:2052/334455/554433/148164?checkedby:iptvcat.com
-#EXTINF:0,SKY TG 24 HD
-http://5gfksa.ltd:2052/334455/554433/148161?checkedby:iptvcat.com
-#EXTINF:0,SKY UNO FHD
-http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/7809?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",SPIDER-MAN: NO WAY HOME
+https://hfs261.serversicuro.cc/hls/dnzpfaue3lg4a3gyva2h72bttcugr3exxqvi3qwu7yt3c72zpftakuabjm7q/index-v1-a1.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",NO EXIT
+https://hfs267.serversicuro.cc/hls/dnzpfsu63lg4a3gyva3h7p3wq5ytrka2eubzefcdedrvayxjfo6qlllwhdqq/index-v1-a1.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",MADEA: IL RITORNO
+https://hfs267.serversicuro.cc/hls/dnzpfte63lg4a3gyva3h7mr3yxa2gpajpc3r252bn,bkkxwohtqh2fkfptjnq,lh2xwohtqh5mtbel3qa,.urlset/master.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",UNCHARTED
+https://hfs264.serversicuro.cc/hls/dnzpf5fl3lg4a3gyva3h7nrrym5nx5nqltkouvk6e,oektj6vvmgymp33tlfa,et2tj6vvmgz5lqvylsa,.urlset/master.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",THE KING'S MAN - LE ORIGINI
+https://hfs260.serversicuro.cc/hls/dnzpfbvk3lg4a3gyvaux7ntqywp2lmpej6ryv5oxz,nrzp2dpkuhntpabdqmq,hsjp2dpkuhlzjnc4fua,.urlset/master.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",MARRY ME - SPOSAMI
+https://v58rt6.serversicuro.cc/hls/dnzpfgfk3lg4a3gyva3h7mzns7kz5pgiqgrnz4cuh,yk5r6nlctg2aqii4svq,tx5r6nlctgxkhy3lhda,.urlset/master.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",MATRIX RESURRECTIONS
+https://hfs267.serversicuro.cc/hls/dnzpfdc23hg4a3gyvaqx7lbmyur3enecqkhlyeepn,pcvysbkyrfvwcl5yuaq,hfvysbkyrfupq5hmzpq,.urlset/master.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",SING 2 - SEMPRE PIU' FORTE
+https://hfs270.serversicuro.cc/hls/dnzpetbv3hg4a3gyvaxx7mrttmk4vnqyfl26v7egpslvnxdiwviddrdsmeua/index-v1-a1.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",THE KISSING BOOTH 3
+https://hfs261.serversicuro.cc/hls/dnzpfm3h3dg4a3gyvapx7kzotdp6ohkvwmv3un4e2,liekmntufu6752ysv5q,bkukmntufu6u5nh3jtq,.urlset/master.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",PESSIME STORIE
+https://hfs265.serversicuro.cc/hls/dnzpff353dg4a3gyvaph7lrmtir5wxnnzjqu2ct6ylwxwcuteoz2dm6tg5ca/index-v1-a1.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",NO SUDDEN
+https://hfs266.serversicuro.cc/hls/dnzpfed53dg4a3gyvaph7kbqsakazs25qrbpwefb6,k6zpur24555ktosfrya,bezpur2455sgbtgl7ja,.urlset/master.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",JUNGLE CRUISE
+https://hfs271.serversicuro.cc/hls/dnzpe6363dg4a3gyvaph72baqm4yhwawohqcmg4px4dzloglmo4w344kpnia/index-v1-a1.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",L'ULTIMO MERCENARIO
+https://hfs263.serversicuro.cc/hls/dnzpe7d63dg4a3gyvaph73zmstplwmblfva3cm64q,bxxwaee644w4wnuyata,jghwaee644ygzqd4ila,.urlset/master.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",RESORT TO LOVE - ALL'AMORE NON SI SFUGGE
+https://hfs264.serversicuro.cc/hls/dnzpe7t63dg4a3gyvaix7kbhzozhccu4aetsgxtk5,mnqbwwm55cs4vsmzyzq,ggabwwm55cqrrgx7kzq,.urlset/master.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",NON DIRLO A NESSUNO
+https://hfs260.serversicuro.cc/hls/dnzpecmx3dg4a3gyvaix73dssekmv2f3ipf2ich62,7zntcdr4qgk3ed6dnxa,un5tcdr4qgeofntafgq,.urlset/master.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",BLOOD RED SKY
+https://hfs260.serversicuro.cc/hls/dnzpf44x3dg4a3gyvaix7lz3yxymp4bssiyjzcdxo,cca6ph2oryv6tcsukoa,lxa6ph2oryzpavsevnq,.urlset/master.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",JOLT – RABBIA ASSASSINA
+https://hfs260.serversicuro.cc/hls/dnzpf54x3dg4a3gyvaix73dyy4q3wqhl3lonarbhl,fn2yqrh3h3phtyd2d2a,o2kyqrh3h3oj76swygq,.urlset/master.m3u8
